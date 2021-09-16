@@ -1,7 +1,2 @@
-Submitted by Group 6.
-Members info:
-Name                 Roll no.
-Tushar Jain.         180101082
-Ujwal Kumar.         180101082
-Bhavishya Samriya.   180101016
-Shivraj Ahirwar.     180101077
+Inter IIT Tournament is the annual sports tournament of the Indian Institutes of Technology. It is organized in December every year. Seven old IITs take turns hosting the event. Tournaments are held in different sports: Athletics, Badminton, Basketball, Cricket, Football, Hockey, Lawn Tennis etc. As the number of events is vast, the participants from the different institutes may get confused about the event venue, timing, and other event updates. It is very necessary for the event manager to notify the event updates to all the participants. E.g. If there is any change in event timing or venue, the event manager has to inform the participants about the change. Moreover, the participants may want to see their institute's current score for the sport events their institute is participating.
+In this project, you have to develop a software solution to help the event manager to smoothly communicate with the participants and also the participants to get the necessary event updates.
